@@ -1,6 +1,6 @@
 ## React X Vercel
 
-The React Blog is a web application built using React.js and deployed on Vercel. It provides a platform for users to read and publish blog posts in a simple and intuitive manner.
+The `React X Vercel` is a web application built using React.js and deployed on Vercel. It provides a platform for users to read and publish blog posts in a simple and intuitive manner.
 
 ## About React.js
 
